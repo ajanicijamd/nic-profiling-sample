@@ -18,7 +18,7 @@ or
 
 By default, prog.cfg is configured for enp7s0.
 
-Once you know your NIC, edit prog.cfg to set this line for:
+Once you know your NIC, edit prog.cfg and modify this line:
 
 
     ROCPROFSYS_PAPI_EVENTS = net:::enp7s0:tx:byte net:::enp7s0:rx:byte net:::enp7s0:rx:packet net:::enp7s0:tx:packet
