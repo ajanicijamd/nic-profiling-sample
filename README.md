@@ -43,7 +43,7 @@ network performance trace.
 
 Read the .proto file in the browser by opening the page
 
-    [Perfetto UI](https://ui.perfetto.dev/)
+[Perfetto UI](https://ui.perfetto.dev/)
 
 ## Simulating network traffic
 
